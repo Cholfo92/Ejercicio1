@@ -4,3 +4,10 @@ Indique que utiliza para clonar este repositorio al Repositorio remoto:
 Realize esta tarea utilizando la aplicacion de escritorio:
 
 -Github Desktop
+
+Una vez que realizamos los cambios en los archivos, esta aplicacion detecta los archivos que tienen cambios y nos muestra en 
+su entorno las modificaciones
+
+Luego debemos presionar el boton COMMIT (Abajo a la izquierda, de color azul) para indicarle que estamos de acuerdo con estos cambios
+
+A continuacion precionamos el boton "Fetch origin" el cual subira los cambios a nuestro repositorio.
